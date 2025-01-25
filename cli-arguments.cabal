@@ -7,7 +7,7 @@ name:                cli-arguments
 version:             0.7.0.0
 synopsis:            A library to process command line arguments in some more convenient way.
 description:         Uses three types of the command line arguments and order of their parsing. All groups usually are not nested one into the others (but using the sequence of parsing functions, you can parse also nested structures as well).
--- bug-reports:
+bug-reports:         https://github.com/Oleksandr-Zhabenko/cli-arguments/issues
 license:             MIT
 license-file:        LICENSE
 author:              OleksandrZhabenko
